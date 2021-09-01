@@ -13,7 +13,7 @@
         android:layout_height="390dp"
         android:layout_marginLeft="50dp"
         android:layout_marginTop="120dp"
-        android:text="MOBILE APPLICATION DEVELOPMENT LABORATORY \nMINI PROJECT\n\nTeam Members:\n\n Ranjana Shenoy K \t  4JN18IS070  \n  Revathi T  \t  4JN18IS071  \n  Shrinidhi Hegde \t 4JN18IS093 \n  Ramya M V \t 4JN18IS069 \t \n \n 6th Semester \t 'B' Section \n Information Science and Engineering,\n J N N College of Engineering, Shimoga."
+        android:text="MOBILE APPLICATION DEVELOPMENT LABORATORY \nMINI PROJECT\n\nTeam Members:\n\n Ranjana Shenoy K  \n  Revathi T  \n  Shrinidhi Hegde \n  Ramya M V "
         android:textColor="#0B0A0A"
         android:textSize="20sp"
         tools:layout_editor_absoluteX="156dp"
